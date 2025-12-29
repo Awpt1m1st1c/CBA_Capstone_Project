@@ -968,18 +968,18 @@ const helpLinks = [
 const contactInfo = [
   { 
     icon: MapPin, 
-    text: '123 Property Plaza, Silicon Valley, CA 94088',
-    href: 'https://maps.google.com/?q=123+Property+Plaza,Silicon+Valley,CA+94088' 
+    text: '123 Street , Vijayanagar, Bangalore',
+    href: '' 
   },
   { 
     icon: Phone, 
-    text: '+1 (234) 567-890',
+    text: '+91 1234567890',
     href: 'tel:+1234567890'
   },
   { 
     icon: Mail, 
     text: 'support@buildestate.com',
-    href: 'mailto:support@buildestate.com' 
+    href: 'mailto:varunika.varsh11@gmail.com' 
   },
 ];
 
